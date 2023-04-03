@@ -1,4 +1,6 @@
 # AI-universe-hub
+live link: https://mirazum.github.io/Personal_AI_Assignment/
+
 
 ### Private Repo Link
 Click Here to create [private repo](https://classroom.github.com/a/dhefyS56)
